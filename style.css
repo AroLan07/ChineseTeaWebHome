@@ -1,18 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <link rel="stylesheet" href="style.css">
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Learn Chinese Tea</title>
-</head>
-<body>
-  <main>
-    <div class="Part1">
-        <h1>Whispers of Chinese Tea</h1>
-        <p>"a voyage about these magical herbal leaves"</p>
-        <h2>Healthy,Safe, and Joyful</h2>
-    </div>
-  </main>
-</body>
-</html>
+.Part1 {
+    width: 80%;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkZODcFxg-wNf495IggpuGWZYTW5wXHPPn3A&s");
+    margin-left: auto;
+    margin-right: auto;
+}
